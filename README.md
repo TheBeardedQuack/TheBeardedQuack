@@ -5,6 +5,7 @@ Dabbled in VB, PHP, JS, Python, Bash, and have some limited experience with Linu
 ## Public Projects/Contributions
 
 ### Game Development
+- [tomt_atom][proj-tomtatom] - Rust library providing a simple static string cache in the form of `Arc<str>`.
 - [tomt_bevycss][proj-tomtbevycss] - Rust library for enabling CSS styling in the. Based on BevyECSS with fixes, updates and improvements
 
 ### Software / Tools
@@ -20,5 +21,6 @@ Dabbled in VB, PHP, JS, Python, Bash, and have some limited experience with Linu
 [tbq-github]: https://github.com/TheBeardedQuack/
 [tbq-youtube]: https://www.youtube.com/@TheBeardedQuack
 [tomt-youtube]: https://www.youtube.com/c/TomeOfManyThings
+[proj-tomtatom]: https://github.com/TheBeardedQuack/tomt_atom
 [proj-tomtbevycss]: https://github.com/TheBeardedQuack/tomt_bevycss
 [proj-webmin]: https://github.com/webmin/webmin
