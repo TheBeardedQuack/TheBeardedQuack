@@ -9,6 +9,7 @@ Dabbled in VB, PHP, JS, Python, Bash, and have some limited experience with Linu
 - [tomt_bevycss][proj-tomtbevycss] - Rust library for enabling CSS styling in the. Based on BevyECSS with fixes, updates and improvements
 
 ### Software / Tools
+- [Lygiya][proj-lygia] - Multi language GPU shader library - Bug fixes, WESL support, tooling
 - [webmin][proj-webmin] - Feature/bufgix - Support for NFTables via update-alternatives ([#2064](https://github.com/webmin/webmin/pull/2064)).
 
 ## Public Profiles
@@ -23,4 +24,5 @@ Dabbled in VB, PHP, JS, Python, Bash, and have some limited experience with Linu
 [tomt-youtube]: https://www.youtube.com/c/TomeOfManyThings
 [proj-tomtatom]: https://github.com/TheBeardedQuack/tomt_atom
 [proj-tomtbevycss]: https://github.com/TheBeardedQuack/tomt_bevycss
+[proj-lygia]: https://github.com/patriciogonzalezvivo/lygia
 [proj-webmin]: https://github.com/webmin/webmin
