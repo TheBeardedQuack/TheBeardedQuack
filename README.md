@@ -10,7 +10,7 @@ Dabbled in VB, PHP, JS, Python, Bash, and have some limited experience with Linu
 
 ### Software / Tools
 - [Lygia][proj-lygia] - Multi language GPU shader library - Bug fixes, WESL support, tooling
-- [Webmin][proj-webmin] - Feature/bufgix - Support for NFTables via update-alternatives ([#2064](https://github.com/webmin/webmin/pull/2064)).
+- [Webmin][proj-webmin] - Feature/bugfix - Support for NFTables via update-alternatives ([#2064](https://github.com/webmin/webmin/pull/2064)).
 
 ## Public Profiles
 - YouTube
