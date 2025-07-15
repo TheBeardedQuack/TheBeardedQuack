@@ -1,4 +1,4 @@
-Professional C#, C++ & Rust developer for 9+ years, primarily in the Deskop software and IoT space.
+Professional C#, C++ & Rust developer for 10+ years, primarily in the Deskop software and IoT space.
 
 Dabbled in VB, PHP, JS, Python, Bash, and have some limited experience with Linux and Windows diagnostics and administration.
 
